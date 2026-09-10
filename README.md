@@ -1,5 +1,5 @@
 # ARCANGEL WEBSITE
-# Website de la carrera musical de Arcangel
+# Website de la Carrera Musical de Arcangel
 ## 🌐 Tecnologias Utilizadas
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
